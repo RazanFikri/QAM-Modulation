@@ -24,12 +24,7 @@ In an ideal system, the orthogonal carriers allow perfect separation. When a pha
 - [cite_start]**DSP Filtering:** Implementing a moving average window configuration for low-pass filtering via discrete convolution (`np.convolve`).
 - [cite_start]**Comparative Visualization:** Side-by-side time-domain comparison of the original signals versus the corrupted demodulated channels.
 
-## Prerequisites & Installation
 
-[cite_start]To run this simulation, you need Python installed along with `NumPy` and `Matplotlib`:
-
-```bash
-pip install numpy matplotlib
 
 ![Simulation Results](QAM1.png)
 ![Simulation Results](QAM2.png)
