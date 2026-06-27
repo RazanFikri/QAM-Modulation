@@ -28,4 +28,3 @@ In an ideal system, the orthogonal carriers allow perfect separation. When a pha
 
 ![Simulation Results](QAM1.png)
 ![Simulation Results](QAM2.png)
-![Simulation Results](QAM3.png)
